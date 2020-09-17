@@ -46,4 +46,4 @@ a software engineering team generator command line application. The application 
 
   # How it works
 
-  [![Readme Gen](https://img.youtube.com/vi/dU6NsDYE0jk/0.jpg)](https://youtu.be/dU6NsDYE0jk "Readme Gen")
+  [![Readme Gen]()]( "")
